@@ -1,0 +1,17 @@
+.counter {
+  margin: 100px 0px;
+  display: flex;
+  justify-content: center;
+}
+.counter-wrapper {
+  display: flex;
+  align-items: center;
+}
+.counter .count {
+  font-size: 2rem;
+  padding: 0px 50px;
+}
+.counter .counter-button {
+  font-size: 2rem;
+  padding: 20px 40px;
+}
